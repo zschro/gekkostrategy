@@ -1,0 +1,5 @@
+breakoutThreshold = 5.0
+breakoutEndThreshold = 1.0
+scalpSellThreshold = 2.0
+scalpBuyThreshold = 2.0
+SMMA = 12

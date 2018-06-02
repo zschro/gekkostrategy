@@ -1,10 +1,19 @@
 # Gekko Strategy
 A simple strategy for trading cryptocurrency with gekko
 
+sample config
+```javascript
+config.breakout = {
+  breakoutThreshold: 5.0,
+  breakoutEndThreshold: 1.0,
+  scalpSellThreshold: 2.0,
+  scalpBuyThreshold: 2.0,
+  SMMA: 12
+}
+```
+
+
+
 If this strategy is useful for you and generates profits. Please consider giving back.
- 
-ETH 0xeb969152217062760104b2e17545647e05f1673b
 
-BTC 16k9vwf4vDfF9ufnuu91WDjheVokPjh2X4
-
-NANO xrb_3boer7rzaewcn583jrfid687znn5ncagp7tqi97pjnupxpr8ep6aor1dqrzy
+ETH 0x1431aCb5E413B5AB3D13002127cE43B8266E3B5b
