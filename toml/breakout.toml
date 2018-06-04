@@ -2,4 +2,7 @@ breakoutThreshold = 5.0
 breakoutEndThreshold = 1.0
 scalpSellThreshold = 2.0
 scalpBuyThreshold = 2.0
+profitFactor= 1.008
 SMMA = 12
+EMALong= 90
+EMAShort= 20
