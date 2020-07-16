@@ -16,8 +16,3 @@ config.breakout = {
   EMAShort: 20
 }
 ```
-
-
-If this strategy is useful for you and generates profits. Please consider giving back.
-
-ETH 0x1431aCb5E413B5AB3D13002127cE43B8266E3B5b
